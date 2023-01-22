@@ -1,0 +1,85 @@
+{
+    "listingsandreview":[
+        {
+            "id": 19,
+            "bath_num": 1,
+            "bed_num": 4,
+            "zip": 234,
+            "address": "zarfdsdsia",
+            "city": "aba",
+            "street": "fmc",
+            "price": "400s0",
+            "sq_ft": 45,
+            "email": "ad@a.com",
+            "user_id": 3
+          },
+          {
+            "id": 20,
+            "bath_num": 3,
+            "bed_num": 4,
+            "zip": 23456,
+            "address": "Shomolu Street",
+            "city": "Ikeja",
+            "street": "Agege",
+            "price": 2000,
+            "sq_ft": 4.2,
+            "email": "test@test.com",
+            "user_id": 5
+          },
+          {
+            "id": 21,
+            "bath_num": 3,
+            "bed_num": 4,
+            "zip": 23456,
+            "address": "Shomolu Street",
+            "city": "Ikeja",
+            "street": "Agege",
+            "price": 2000,
+            "sq_ft": 4.2,
+            "email": "test@test.com",
+            "user_id": 4
+          },
+          {
+            "id": 22,
+            "bath_num": 3,
+            "bed_num": 4,
+            "zip": 23456,
+            "address": "Shomolu Street",
+            "city": "Ikeja",
+            "street": "Agege",
+            "price": 2000,
+            "sq_ft": 4.2,
+            "email": "test@test.com",
+            "user_id": 4
+          },
+          {
+            "id": 23,
+            "bath_num": 36,
+            "bed_num": 46,
+            "zip": 23456,
+            "address": "Shomolu Streeth",
+            "city": "Ikeja",
+            "street": "Agege",
+            "price": 2000,
+            "sq_ft": 4.2,
+            "email": "test@test.com",
+            "user_id": 4
+          },
+          {
+            "id": 24,
+            "bath_num": 3,
+            "bed_num": 4,
+            "zip": 23456,
+            "address": "Shomolu Street",
+            "city": "Ikeja",
+            "street": "Agege",
+            "price": 2000,
+            "sq_ft": 4.2,
+            "email": "test@test.com",
+            "user_id": 4
+          }
+       
+        
+
+    ]
+}
